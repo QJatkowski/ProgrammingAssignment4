@@ -7,7 +7,9 @@ import java.util.Arrays;
 /**
  * Authors: Quenten Franc Jatkowski and Ashlan Elizabeth Olson
  * Date: 04/24/18
- * Overview: Creates change out of the least amount of coins from array given, using dynamic programming. Returns a list of the coins used.
+ *
+ * Overview: Creates change out of the least amount of coins from array given, using dynamic programming. 
+ * Returns a list of the coins used.
  */
 public class CoinsUtils 
 {
